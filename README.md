@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente aprendendo lógica de programação em Pyhton para transição de carreira na área de dados [Hello world](https://github.com/felipeyounan/Hello-World)
 
-- 🌱 Atualmente estou aprendendo **Python, Pandas, Numpy, Matplotlib, scikit, learn SQL,**
+- 🌱 Atualmente estou aprendendo **Python, Pandas, Numpy, Matplotlib, scikit learn, SQL,**
 
 - 💬 Pergunte-me sobre **Industria de alimentos, abatedouro de aves, tratamento de dados**
 
