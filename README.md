@@ -1,5 +1,5 @@
-<h1 align="center">Olá! 👋, Eu sou o Felipe</h1>
-<h3 align="center">Aprendendo sobre Análise de dados, morando no Paraná</h3>
+<h1 align="center">Olá!, Eu sou o Felipe 👋</h1>
+<h3 align="center">Aprendendo sobre Análise de dados, morando no Paraná e buscando um opotunidade preferencialmente remota.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeyounan&label=Profile%20views&color=0e75b6&style=flat" alt="felipeyounan" /> </p>
 
