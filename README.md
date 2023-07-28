@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipeyounan" alt="felipeyounan" /></a> </p>
 
-- 🔭 Atualmente aprendendo lógica de programação em Pyhton para transição de carreira na área de dados. [Hello world](https://github.com/felipeyounan/Hello-World)
+- 🔭 Aprendiz de Pyhton para transição de carreira na área de dados [Hello world](https://github.com/felipeyounan/Hello-World)
 
 - 🌱 Atualmente estou aprendendo: **Python, Pandas, Numpy, Matplotlib, scikit learn, SQL,**
 
 - 💬 Pergunte-me sobre: **Industria de alimentos, abatedouro de aves, tratamento de dados**
 
-- 📫 Ache-me no meu e-mail: **flpyounan@yahoo.com.br**
+- 📫 Ache-me no meu e-mail => **flpyounan@yahoo.com.br**
 
-- 📄 Conheça as minhas experiências: [https://www.linkedin.com/in/felipeyounan/](https://www.linkedin.com/in/felipeyounan/)
+- 📄 Conheça as minhas experiências => [https://www.linkedin.com/in/felipeyounan/](https://www.linkedin.com/in/felipeyounan/)
 
-- ⚡ Fato curioso sobre mim: **Eu consigo nadar 2km em 45 min**
+- ⚡ Fato curioso sobre mim => **Eu consigo nadar 2km em 45 min**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
